@@ -1,0 +1,2 @@
+git merge -> engendre un fast forward
+pour ne pas avoir de fast forward -> git merge --no-ff (force la création d'un commit de merge)
